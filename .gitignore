@@ -1,45 +1,6 @@
-# Build outputs
-_build/
-deps/
+/_build
+/cover
+/deps
+erl_crash.dump
 *.ez
-
-# Generated files
 *.beam
-*.beam.[0-9a-f]*
-
-# Coverage
-cover/
-.coverage
-*.lcov
-
-# Hex/Phoenix
-_build/prod/
-lib/*/consolidated/
-priv/static/assets/
-uploads/
-
-# Elixir hex
-deps/
-mix.lock  # (optional, if you don't want to commit it)
-
-# Logs
-log/
-logs/
-*.log
-
-# Editor/IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Tests
-test/dummy/
-
-# Misc
-config/dev.exs
-config/test.exs
