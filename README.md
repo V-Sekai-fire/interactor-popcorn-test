@@ -13,4 +13,4 @@ It is a smoke test for Elixir in the browser: one module that greets and reports
 
 ## Licence
 
-The repository states no licence.
+MIT. See [LICENSE](LICENSE).
